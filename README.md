@@ -43,6 +43,5 @@ The dataset contains product information such as product title, brand, prices, d
 ## Project Outcome
 Built a basic end-to-end data lakehouse pipeline demonstrating data ingestion, transformation, storage, optimization, and analytics using Databricks.
 
-## Note
-This project uses a product listing dataset and focuses on product-level analytics. It does not represent customer orders or sales transactions.
+
 
